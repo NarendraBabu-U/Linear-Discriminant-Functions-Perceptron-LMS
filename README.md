@@ -28,4 +28,4 @@ D. Modifying the above dataset such that classes are non linearly separable and 
 
 E. Trying out different Initial weight vectors: A good initial heuristic is to start with “Difference of average of positive input vectors and average of negative input vectors”. We can justify that as the final weight vector is a linear combination of input vectors.For given samples the initial weight vector is (0, 2.38, 4.17) and to check convergence dependence on initial weights two other weight vectors can be considered (1, 1, 1) and (300, 200, 100).
 
->To run all the above experiments there is no need of giving any command line arguments.
+>To run any of the above experiments there is no need of giving any command line arguments.
